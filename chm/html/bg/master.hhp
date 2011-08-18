@@ -1,0 +1,26 @@
+[OPTIONS]
+Auto Index=Yes
+Binary Index=Yes
+Compatibility=1.1
+Compiled file=../release/BulgarianRedDataBook.chm
+Contents file=master.hhc
+Default Window=RedData
+Default topic=index.html
+Error log file=_errorlog.txt
+Display compile progress=Yes
+Full-text search=Yes
+Index file=master.hhk
+Language=0x402 Bulgarian (Bulgaria)
+Title="Червена книга на Република България"
+
+[WINDOWS]
+RedData="Червена книга на Република България","master.hhc","master.hhk","index.html","index.html","bas.html","BAS.bg","moew.html","MOCB",0x61520,,0x7c384e,,0x11830000,,,,,,0
+
+
+[MERGE FILES]
+vol1.chm
+vol2.chm
+vol3.chm
+
+[FILES]
+index.html

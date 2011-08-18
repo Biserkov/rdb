@@ -1,0 +1,25 @@
+[OPTIONS]
+Auto Index=Yes
+Binary Index=Yes
+Compatibility=1.1
+Compiled file=../release/BulgarianRedDataBook.chm
+Contents file=master.hhc
+Default Window=TP
+Default topic=index.html
+Error log file=_errorlog.txt
+Display compile progress=Yes
+Full-text search=Yes
+Index file=master.hhk
+Language=0x402 Bulgarian (Bulgaria)
+Title="Red Data Book of Republic of Bulgaria"
+
+[WINDOWS]
+TP=,"master.hhc","master.hhk","index.html","index.html",,,,,0x63520,222,0x304e,[0,0,879,615],0xb0000,,,,,,0
+
+[MERGE FILES]
+vol1.chm
+vol2.chm
+vol3.chm
+
+[FILES]
+index.html

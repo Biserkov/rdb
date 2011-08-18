@@ -1,0 +1,28 @@
+
+[OPTIONS]
+Auto Index=Yes
+Binary Index=Yes
+Compatibility=1.1
+Compiled file=../release/vol1.chm
+Contents file=vol1.hhc
+Default Window=TP
+Default topic=vol1/vol1.html
+Error log file=_errorlog1.txt
+Display compile progress=Yes
+Full-text search=Yes
+Index file=vol1.hhk
+Language=0x402 Bulgarian (Bulgaria)
+Title="vol. 1 Plants and Fungi"
+
+[WINDOWS]
+TP=,"vol1.hhc","vol1.hhk","vol1/vol1.html","vol1/vol1.html",,,,,0x63520,222,0x304e,[0,0,879,615],0xb0000,,,,,,0
+TP2=,"BulgarianRedDataBook.chm::\master.hhc","vol1.hhk","vol1/vol1.html",,,,,,0x1520,,0x0,[271,372,593,566],,,,,,,0
+
+[FILES]
+vol1/vol1.html
+red.css
+
+[MERGE FILES]
+BulgarianRedDataBook.chm
+vol2.chm
+vol3.chm

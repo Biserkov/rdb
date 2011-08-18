@@ -1,0 +1,63 @@
+/*
+
+	The text is contained in body>div#holder, max-width 60 characters & centered.
+	All other containers are also centered.
+
+
+*/
+
+
+body {
+	background-color: #ECFDEB;
+	font-family:  Verdana, Geneva, sans-serif;
+	font-size: medium;
+	margin: 0;
+	/*For lower resolutions*/
+	padding-top: 0em;
+	padding-right: 1em;
+	padding-bottom: 0.5em;
+	padding-right: 1em;
+	overflow-y: scroll;
+}
+
+
+#holder {
+	margin: auto;    /* align: center*/
+	max-width: 55em; /* readability */
+	padding-bottom: 1em;
+	padding-left: 1em;
+}
+.list p{text-indent: 0}
+.left{text-align: left;}
+.right {text-align: right}
+
+
+li {
+	margin-left: 1em; /* matches the text-indent of paragraphs*/
+	padding-top: 1em; /* replaced line-height */
+}
+ul li:first-child{padding-top: 0em;}
+table, ul{margin: 0 0 1em 0;}
+
+h1, h2, #draw, #map, #movie, #photogallery, #navigation, p.photograph 
+{
+	text-align: center
+}
+h1, h2{font-family: Georgia, "Times New Roman", Times, serif}
+
+p {
+	margin: 0;
+	padding: 0 0 1em 0;
+	text-align: justify;
+	text-indent: 2em;
+}
+
+p#author {
+	font-style:italic;
+	text-align: right;
+}
+
+th {
+	font-size: larger;
+	text-align: left;  
+}

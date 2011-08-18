@@ -1,0 +1,28 @@
+
+[OPTIONS]
+Auto Index=Yes
+Binary Index=Yes
+Compatibility=1.1
+Compiled file=../release/vol2.chm
+Contents file=vol2.hhc
+Default Window=TP
+Default topic=vol2/vol2.html
+Error log file=_errorlog2.txt
+Display compile progress=Yes
+Full-text search=Yes
+Index file=vol2.hhk
+Language=0x402 Bulgarian (Bulgaria)
+Title="vol. 2 Animals"
+
+[WINDOWS]
+TP=,"vol2.hhc","vol2.hhk","vol2/vol2.html","vol2/vol2.html",,,,,0x63520,222,0x304e,[0,0,879,615],0xb0000,,,,,,0
+TP2=,"BulgarianRedDataBook.chm::\master.hhc","vol2.hhk","vol2/vol2.html",,,,,,0x1520,,0x0,[271,372,593,566],,,,,,,0
+
+[FILES]
+vol2/vol2.html
+red.css
+
+[MERGE FILES]
+BulgarianRedDataBook.chm
+vol1.chm
+vol3.chm

@@ -1,0 +1,28 @@
+
+[OPTIONS]
+Auto Index=Yes
+Binary Index=Yes
+Compatibility=1.1
+Compiled file=../release/vol3.chm
+Contents file=vol3.hhc
+Default Window=TP
+Default topic=vol3/vol3.html
+Error log file=_errorlog3.txt
+Display compile progress=Yes
+Full-text search=Yes
+Index file=vol3.hhk
+Language=0x402 Bulgarian (Bulgaria)
+Title="Том III Природни местообитания"
+
+[WINDOWS]
+TP=,"vol3.hhc","vol3.hhk","vol3/vol3.html","vol3/vol3.html",,,,,0x63520,222,0x304e,[0,0,879,615],0xb0000,,,,,,0
+TP2=,"BulgarianRedDataBook.chm::\master.hhc","vol3.hhk","vol3/vol3.html",,,,,,0x1520,,0x0,[271,372,593,566],,,,,,,0
+
+[FILES]
+vol3/vol3.html
+red.css
+
+[MERGE FILES]
+BulgarianRedDataBook.chm
+vol1.chm
+vol2.chm
