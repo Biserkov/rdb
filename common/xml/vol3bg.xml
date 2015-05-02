@@ -8,7 +8,7 @@
 "xhtml-symbol.ent">
 	%xhtml-lat1;%xhtml-special;%xhtml-symbol;
 ]>
-<book id="3" lang="en" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tom.xsd">
+<book id="3" lang="bg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tom.xsd">
 	<species>
 		<code>01A1</code>
 		<name>Черни миди и/или морски жълъди върху медиолиторални скали</name>
